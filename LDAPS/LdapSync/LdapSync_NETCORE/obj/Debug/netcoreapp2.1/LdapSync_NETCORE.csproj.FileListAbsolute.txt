@@ -1,0 +1,11 @@
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\bin\Debug\netcoreapp2.1\LdapSync_NETCORE.deps.json
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\bin\Debug\netcoreapp2.1\LdapSync_NETCORE.runtimeconfig.json
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\bin\Debug\netcoreapp2.1\LdapSync_NETCORE.runtimeconfig.dev.json
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\bin\Debug\netcoreapp2.1\LdapSync_NETCORE.dll
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\bin\Debug\netcoreapp2.1\LdapSync_NETCORE.pdb
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\obj\Debug\netcoreapp2.1\LdapSync_NETCORE.csprojAssemblyReference.cache
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\obj\Debug\netcoreapp2.1\LdapSync_NETCORE.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\obj\Debug\netcoreapp2.1\LdapSync_NETCORE.AssemblyInfoInputs.cache
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\obj\Debug\netcoreapp2.1\LdapSync_NETCORE.AssemblyInfo.cs
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\obj\Debug\netcoreapp2.1\LdapSync_NETCORE.dll
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync_NETCORE\obj\Debug\netcoreapp2.1\LdapSync_NETCORE.pdb

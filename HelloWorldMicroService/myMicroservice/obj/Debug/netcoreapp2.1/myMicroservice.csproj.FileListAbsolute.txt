@@ -1,0 +1,14 @@
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\bin\Debug\netcoreapp2.1\myMicroservice.deps.json
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\bin\Debug\netcoreapp2.1\myMicroservice.runtimeconfig.json
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\bin\Debug\netcoreapp2.1\myMicroservice.runtimeconfig.dev.json
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\bin\Debug\netcoreapp2.1\myMicroservice.dll
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\bin\Debug\netcoreapp2.1\myMicroservice.pdb
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.csprojAssemblyReference.cache
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.RazorAssemblyInfo.cache
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.RazorAssemblyInfo.cs
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.AssemblyInfoInputs.cache
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.AssemblyInfo.cs
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.RazorTargetAssemblyInfo.cache
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.dll
+C:\ashok b\MyWork\HelloWorldMicroService\myMicroservice\obj\Debug\netcoreapp2.1\myMicroservice.pdb

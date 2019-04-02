@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LdapSync_NETCORE": {
+      "commandName": "Project",
+      "commandLineArgs": "\"LDAP://BLRMGMTAD.abc.com\" \"abhosale@abc.com\" \"Meridium@2017\""
+    }
+  }
+}

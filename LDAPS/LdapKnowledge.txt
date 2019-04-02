@@ -1,0 +1,16 @@
+1. Setup LDAPS in ADFS 
+ using following link 
+
+https://blogs.msdn.microsoft.com/microsoftrservertigerteam/2017/04/10/step-by-step-guide-to-setup-ldaps-on-windows-server/
+2. Create Private key using above link and export it
+3.import above exported private key in client machine.
+4. using ldp.exe you can test both connection
+
+ldap:\\blrmgmtad.abc.com 389
+ldaps:\\blrmgmtad.abc.com 636 SSL check 
+
+both should be successful.
+
+[Note very important: make sure you create private key with above server name: blrmgmtad.abc.com]
+
+5. create console application which will do ldap and ldaps sync and retrive users on both ldap and ldaps url.

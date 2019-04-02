@@ -1,0 +1,7 @@
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync\bin\Debug\LdapSync.exe.config
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync\bin\Debug\LdapSync.exe
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync\bin\Debug\LdapSync.pdb
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync\obj\Debug\LdapSync.csprojAssemblyReference.cache
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync\obj\Debug\LdapSync.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync\obj\Debug\LdapSync.exe
+C:\ashok b\MyWork\LDAPS\LdapSync\LdapSync\obj\Debug\LdapSync.pdb
