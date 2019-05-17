@@ -1,0 +1,10 @@
+C:\MyData\REL-431\Source\bin\Debug\Meridium.Excel.dll.config
+C:\MyData\REL-431\Source\bin\Debug\Meridium.Excel.deps.json
+C:\MyData\REL-431\Source\bin\Debug\Meridium.Excel.dll
+C:\MyData\REL-431\Source\bin\Debug\Meridium.Excel.pdb
+C:\MyData\REL-431\Source\Platform\Meridium.Excel\obj\Debug\Meridium.Excel.csprojAssemblyReference.cache
+C:\MyData\REL-431\Source\Platform\Meridium.Excel\obj\Debug\Meridium.Excel.ExcelResources.resources
+C:\MyData\REL-431\Source\Platform\Meridium.Excel\obj\Debug\Meridium.Excel.csproj.GenerateResource.cache
+C:\MyData\REL-431\Source\Platform\Meridium.Excel\obj\Debug\Meridium.Excel.csproj.CoreCompileInputs.cache
+C:\MyData\REL-431\Source\Platform\Meridium.Excel\obj\Debug\Meridium.Excel.dll
+C:\MyData\REL-431\Source\Platform\Meridium.Excel\obj\Debug\Meridium.Excel.pdb
